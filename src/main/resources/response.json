@@ -1,0 +1,3181 @@
+{
+  "status": "ok",
+  "data": {
+    "total_cost": 1875.73,
+    "az_cost": 1746.07,
+    "gcp_cost": 0,
+    "os_cost": 129.66,
+    "az_cn_cost": 0,
+    "service": {
+      "az_cost": 1746.07,
+      "gcp_cost": 0,
+      "os_cost": 129.66,
+      "az_cn_cost": 0,
+      "total_cost": 1875.73,
+      "VIRTUAL MACHINES": {
+        "total_cost": 1059.44,
+        "az_cost": 1059.44,
+        "gcp_cost": 0,
+        "os_cost": 0,
+        "az_cn_cost": 0,
+        "resource_group": {
+          "az_cost": 1059.44,
+          "gcp_cost": 0,
+          "os_cost": 0,
+          "az_cn_cost": 0,
+          "total_cost": 1059.44,
+          "WALMART-USSC-KAMP": {
+            "total_cost": 140.94,
+            "az_cost": 140.94,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CASSANDRA-IMS-SALES-FLOOR--406706528-PROD-WUS": {
+            "total_cost": 55.94,
+            "az_cost": 55.94,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CASSANDRA-IMS-SALES-FLOOR--406706528-PROD-SCUS": {
+            "total_cost": 51.28,
+            "az_cost": 51.28,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HADOOP-AZURE-468028872-PROD-SVCSSAEIM-P-SCUS": {
+            "total_cost": 51.26,
+            "az_cost": 51.26,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-SALES-FLOOR-INVE-580252262-PROD-SC-SCUS": {
+            "total_cost": 42.15,
+            "az_cost": 42.15,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SQLSERVER-IAAS-PROD-01RG025": {
+            "total_cost": 37.77,
+            "az_cost": 37.77,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-CLOUDIMS-AZ-PROD-462365501-PROD-WUS": {
+            "total_cost": 37.37,
+            "az_cost": 37.37,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-IN-STOCK-ASSISTA-538100419-PROD-WUS": {
+            "total_cost": 37.37,
+            "az_cost": 37.37,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-CLOUDIMS-AZ-PROD-462365501-PROD-SCUS": {
+            "total_cost": 33.55,
+            "az_cost": 33.55,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-IN-STOCK-ASSISTA-538100419-PROD-SCUS": {
+            "total_cost": 33.09,
+            "az_cost": 33.09,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ITEM-ACTIVIT-558829594-PROD-SCUS": {
+            "total_cost": 25.63,
+            "az_cost": 25.63,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-REPLENISHMEN-540281319-PROD-SCUS": {
+            "total_cost": 25.62,
+            "az_cost": 25.62,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-EVENT-PREPRO-437409508-PROD-SECONDARY-WUS": {
+            "total_cost": 21.17,
+            "az_cost": 21.17,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-REPLENISHMEN-540281319-PROD-WUS": {
+            "total_cost": 21.17,
+            "az_cost": 21.17,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-ELASTIC-STACK": {
+            "total_cost": 19.54,
+            "az_cost": 19.54,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-EVENT-PREPRO-437394447-PROD-PRIMARY-SCUS": {
+            "total_cost": 19.2,
+            "az_cost": 19.2,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CASSANDRA-IMS-FAST-HISTORY-893405055-STG-WUS": {
+            "total_cost": 18.65,
+            "az_cost": 18.65,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IN-STOCK-ASSISTA-461095972-PROD-SCUS": {
+            "total_cost": 17.09,
+            "az_cost": 17.09,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HADOOP-AZURE-427451369-PROD-PRIMARY-SCUS": {
+            "total_cost": 17.09,
+            "az_cost": 17.09,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ORCHESTRATIO-577891858-PROD-SCUS": {
+            "total_cost": 17.07,
+            "az_cost": 17.07,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-COUCHBASE-866213001-DEV-SCUS": {
+            "total_cost": 14.86,
+            "az_cost": 14.86,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CASSANDRA-SHELFAVAILABILIT-911392311-DEV-WUS": {
+            "total_cost": 14.11,
+            "az_cost": 14.11,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CASSANDRA-IMS-SALES-FLOOR--373665358-QA-WUS": {
+            "total_cost": 14.11,
+            "az_cost": 14.11,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CASSANDRA-IMS-FAST-HISTORY-844660707-DEV-WUS": {
+            "total_cost": 14.11,
+            "az_cost": 14.11,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-ISA-CONFIG-API-564437592-PROD-WUS": {
+            "total_cost": 14.11,
+            "az_cost": 14.11,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-ISA-CONFIG-API-564437592-PROD-SCUS": {
+            "total_cost": 12.82,
+            "az_cost": 12.82,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-DISTRIBUTED--466791656-STAGE-SCUS": {
+            "total_cost": 12.82,
+            "az_cost": 12.82,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-CONSUL": {
+            "total_cost": 12.5,
+            "az_cost": 12.5,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ITEM-ACTIVIT-558829594-PROD-WUS": {
+            "total_cost": 11.76,
+            "az_cost": 11.76,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "CPNONPRODUCTIONXPRV2SOUTHCENTRALUSR026": {
+            "total_cost": 11.64,
+            "az_cost": 11.64,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-3RG590": {
+            "total_cost": 11.18,
+            "az_cost": 11.18,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-EVENTS-REPLA-485254796-STG-SCUS": {
+            "total_cost": 8.54,
+            "az_cost": 8.54,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-VAULT": {
+            "total_cost": 7.39,
+            "az_cost": 7.39,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IN-STOCK-ASSISTA-461095972-PROD-WUS": {
+            "total_cost": 7.06,
+            "az_cost": 7.06,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SQLSERVER-IAAS-NONPROD-01RG087": {
+            "total_cost": 6.53,
+            "az_cost": 6.53,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-BOSSANOVA-IN-432460687-PROD-AZ-SC-SCUS": {
+            "total_cost": 6.41,
+            "az_cost": 6.41,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-STORE-SERVIC-477152379-PROD-SCUS": {
+            "total_cost": 6.41,
+            "az_cost": 6.41,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-DATA-ENRICHMENT--979364756-PROD-LOAD-TEST-SCUS": {
+            "total_cost": 6.41,
+            "az_cost": 6.41,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-DATA-ENRICHMENT--943424476-PROD-SC-SCUS": {
+            "total_cost": 6.33,
+            "az_cost": 6.33,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-ETCD": {
+            "total_cost": 5.54,
+            "az_cost": 5.54,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GETS-API-636383212-PROD-WUS": {
+            "total_cost": 4.7,
+            "az_cost": 4.7,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IN-STOCK-ASSISTA-486055298-QA-ACCEPTANCE-SCUS": {
+            "total_cost": 4.27,
+            "az_cost": 4.27,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-EVENT-PREPRO-411149147-STG-SCUS": {
+            "total_cost": 4.27,
+            "az_cost": 4.27,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GETS-API-636383212-PROD-SCUS": {
+            "total_cost": 4.27,
+            "az_cost": 4.27,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CACHE-CLOUDDURCACHE-DE-465986554-DEV-SCUS": {
+            "total_cost": 4.27,
+            "az_cost": 4.27,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CACHE-IMS-INVENTORY-PI-404414089-STG-SCUS": {
+            "total_cost": 4.27,
+            "az_cost": 4.27,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ITEM-ACTIVIT-553533760-DEV-SCUS": {
+            "total_cost": 4.27,
+            "az_cost": 4.27,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-BOSSANOVA-IN-911026716-QA-SCUS": {
+            "total_cost": 4.27,
+            "az_cost": 4.27,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HADOOP-AZURE-413354899-DEV-SCUS": {
+            "total_cost": 4.27,
+            "az_cost": 4.27,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GRAPHITE-GRA-705473400-LOCATIONS-PROD-SCUS": {
+            "total_cost": 4.27,
+            "az_cost": 4.27,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GRAPHITE-GRA-704239484-PROD-2-SCUS": {
+            "total_cost": 4.27,
+            "az_cost": 4.27,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GRAPHITE-GRA-694658249-PROD-SC-SCUS": {
+            "total_cost": 4.27,
+            "az_cost": 4.27,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GRAPHITE-GRA-575980491-STAGE-SCUS": {
+            "total_cost": 4.27,
+            "az_cost": 4.27,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-3RG618": {
+            "total_cost": 3.84,
+            "az_cost": 3.84,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-2RG336": {
+            "total_cost": 3.84,
+            "az_cost": 3.84,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "TEIMCMDM-IMS-NG-ETL-536374022-PROD2-SCUS": {
+            "total_cost": 3.83,
+            "az_cost": 3.83,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-IMS-REPLENISHMEN-541841933-QA-WUS": {
+            "total_cost": 3.53,
+            "az_cost": 3.53,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-IMSREPLENISHMENT-518288573-DEV-WUS": {
+            "total_cost": 3.53,
+            "az_cost": 3.53,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-REPLENISHMEN-542260765-QA-SCUS": {
+            "total_cost": 3.21,
+            "az_cost": 3.21,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-CLOUDIMS-STG-446410541-STG-SCUS": {
+            "total_cost": 3.17,
+            "az_cost": 3.17,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-CLOUD-IMS-QA-466764305-QA-SCUS": {
+            "total_cost": 3.17,
+            "az_cost": 3.17,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-ISA-CAP-DEV-504024913-DEV-SCUS": {
+            "total_cost": 3.17,
+            "az_cost": 3.17,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-BASTION": {
+            "total_cost": 3.12,
+            "az_cost": 3.12,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-3RG614": {
+            "total_cost": 2.78,
+            "az_cost": 2.78,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ORCHESTRATIO-679314758-PERFORMANCE-SCUS": {
+            "total_cost": 2.78,
+            "az_cost": 2.78,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-EVENTS-REPOR-410263658-STAGE-SCUS": {
+            "total_cost": 2.68,
+            "az_cost": 2.68,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-SALES-FLOOR-INVE-867485003-PROD-WEST-WUS": {
+            "total_cost": 2.35,
+            "az_cost": 2.35,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-3RG650": {
+            "total_cost": 2.33,
+            "az_cost": 2.33,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-3RG546": {
+            "total_cost": 2.21,
+            "az_cost": 2.21,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GETS-API-634712303-DEV-SCUS": {
+            "total_cost": 2.14,
+            "az_cost": 2.14,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-BOSSANOVA-IN-711583176-DEV-SCUS": {
+            "total_cost": 2.14,
+            "az_cost": 2.14,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-ISA-CONFIG-API-562106363-DEV-SCUS": {
+            "total_cost": 2.14,
+            "az_cost": 2.14,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ITEMINFO-SER-955841239-PROD-SCUS": {
+            "total_cost": 2.11,
+            "az_cost": 2.11,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ITEMINFO-SER-880920656-DEV-SCUS": {
+            "total_cost": 2.11,
+            "az_cost": 2.11,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HISTORY-INJE-955844165-PROD-SCUS": {
+            "total_cost": 2.11,
+            "az_cost": 2.11,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HISTORY-INJE-851442976-DEV-SCUS": {
+            "total_cost": 2.11,
+            "az_cost": 2.11,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-BOSSANOVA-IN-425275076-PROD-WUS": {
+            "total_cost": 1.76,
+            "az_cost": 1.76,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-BACK-ROOM-INVENT-608864092-PROD-SCUS": {
+            "total_cost": 1.6,
+            "az_cost": 1.6,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ORCHESTRATIO-867520746-PROD-WEST-WUS": {
+            "total_cost": 1.18,
+            "az_cost": 1.18,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-SFI-KAFKA-MIRROR-870451908-PROD-SC-SCUS": {
+            "total_cost": 1.07,
+            "az_cost": 1.07,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-DOCKER-503742413-IMSDEV-SCUS": {
+            "total_cost": 1.06,
+            "az_cost": 1.06,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-MTTR-943864138-MTTR-DEV-SCUS": {
+            "total_cost": 1.06,
+            "az_cost": 1.06,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-EVENT-PREPRO-409134593-DEV-SCUS": {
+            "total_cost": 1.06,
+            "az_cost": 1.06,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HADOOP-AZURE-443198204-DEV-NEW-WUS": {
+            "total_cost": 0.59,
+            "az_cost": 0.59,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-REPLENISHMEN-539303437-DEV-SCUS": {
+            "total_cost": 0.54,
+            "az_cost": 0.54,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-PURGE-PROCES-839134521-DEV-SCUS": {
+            "total_cost": 0.54,
+            "az_cost": 0.54,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-MOBILE-DATA-841877101-DEV-SCUS": {
+            "total_cost": 0.54,
+            "az_cost": 0.54,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-WIREMOCK-SERVER-721997462-DEV-SCUS": {
+            "total_cost": 0.53,
+            "az_cost": 0.53,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          }
+        }
+      },
+      "STORAGE": {
+        "total_cost": 555.94,
+        "az_cost": 553.59,
+        "gcp_cost": 0,
+        "os_cost": 2.35,
+        "az_cn_cost": 0,
+        "resource_group": {
+          "az_cost": 553.59,
+          "gcp_cost": 0,
+          "os_cost": 0,
+          "az_cn_cost": 0,
+          "total_cost": 553.59,
+          "SQLSERVER-IAAS-PROD-01RG025": {
+            "total_cost": 158.73,
+            "az_cost": 158.73,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CASSANDRA-IMS-SALES-FLOOR--406706528-PROD-WUS": {
+            "total_cost": 95.09,
+            "az_cost": 95.09,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CASSANDRA-IMS-SALES-FLOOR--406706528-PROD-SCUS": {
+            "total_cost": 86.49,
+            "az_cost": 86.49,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-ELASTIC-STACK": {
+            "total_cost": 51.75,
+            "az_cost": 51.75,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CASSANDRA-IMS-SALES-FLOOR--373665358-QA-WUS": {
+            "total_cost": 31.7,
+            "az_cost": 31.7,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CASSANDRA-IMS-FAST-HISTORY-893405055-STG-WUS": {
+            "total_cost": 16,
+            "az_cost": 16,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-3RG590": {
+            "total_cost": 14.54,
+            "az_cost": 14.54,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-IN-STOCK-ASSISTA-538100419-PROD-WUS": {
+            "total_cost": 8.15,
+            "az_cost": 8.15,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-CLOUDIMS-AZ-PROD-462365501-PROD-WUS": {
+            "total_cost": 8.15,
+            "az_cost": 8.15,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-CLOUDIMS-AZ-PROD-462365501-PROD-SCUS": {
+            "total_cost": 7.41,
+            "az_cost": 7.41,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-IN-STOCK-ASSISTA-538100419-PROD-SCUS": {
+            "total_cost": 7.41,
+            "az_cost": 7.41,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SQLSERVER-IAAS-NONPROD-01RG087": {
+            "total_cost": 7.3,
+            "az_cost": 7.3,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-2RG336": {
+            "total_cost": 4.78,
+            "az_cost": 4.78,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CASSANDRA-IMS-FAST-HISTORY-844660707-DEV-WUS": {
+            "total_cost": 4.56,
+            "az_cost": 4.56,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CASSANDRA-SHELFAVAILABILIT-911392311-DEV-WUS": {
+            "total_cost": 4.56,
+            "az_cost": 4.56,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-3RG546": {
+            "total_cost": 3.96,
+            "az_cost": 3.96,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-CONSUL": {
+            "total_cost": 3.44,
+            "az_cost": 3.44,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-3RG618": {
+            "total_cost": 3.19,
+            "az_cost": 3.19,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-KAMP": {
+            "total_cost": 3.18,
+            "az_cost": 3.18,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GRAPHITE-GRA-575980491-STAGE-SCUS": {
+            "total_cost": 3.01,
+            "az_cost": 3.01,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GRAPHITE-GRA-694658249-PROD-SC-SCUS": {
+            "total_cost": 2.91,
+            "az_cost": 2.91,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GRAPHITE-GRA-704239484-PROD-2-SCUS": {
+            "total_cost": 2.9,
+            "az_cost": 2.9,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GRAPHITE-GRA-705473400-LOCATIONS-PROD-SCUS": {
+            "total_cost": 2.6,
+            "az_cost": 2.6,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-3RG650": {
+            "total_cost": 2.55,
+            "az_cost": 2.55,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-COUCHBASE-866213001-DEV-SCUS": {
+            "total_cost": 2.32,
+            "az_cost": 2.32,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-ETCD": {
+            "total_cost": 2.1,
+            "az_cost": 2.1,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-3RG614": {
+            "total_cost": 1.47,
+            "az_cost": 1.47,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HADOOP-AZURE-468028872-PROD-SVCSSAEIM-P-SCUS": {
+            "total_cost": 0.98,
+            "az_cost": 0.98,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-IMS-REPLENISHMEN-541841933-QA-WUS": {
+            "total_cost": 0.9,
+            "az_cost": 0.9,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-IMSREPLENISHMENT-518288573-DEV-WUS": {
+            "total_cost": 0.9,
+            "az_cost": 0.9,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-ISA-CAP-DEV-504024913-DEV-SCUS": {
+            "total_cost": 0.82,
+            "az_cost": 0.82,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-CLOUD-IMS-QA-466764305-QA-SCUS": {
+            "total_cost": 0.82,
+            "az_cost": 0.82,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-SALES-FLOOR-INVE-580252262-PROD-SC-SCUS": {
+            "total_cost": 0.52,
+            "az_cost": 0.52,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ITEM-ACTIVIT-558829594-PROD-SCUS": {
+            "total_cost": 0.51,
+            "az_cost": 0.51,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-REPLENISHMEN-540281319-PROD-SCUS": {
+            "total_cost": 0.5,
+            "az_cost": 0.5,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-CLOUDIMS-STG-446410541-STG-SCUS": {
+            "total_cost": 0.46,
+            "az_cost": 0.46,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-REPLENISHMEN-540281319-PROD-WUS": {
+            "total_cost": 0.4,
+            "az_cost": 0.4,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ORCHESTRATIO-577891858-PROD-SCUS": {
+            "total_cost": 0.37,
+            "az_cost": 0.37,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IN-STOCK-ASSISTA-461095972-PROD-SCUS": {
+            "total_cost": 0.35,
+            "az_cost": 0.35,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-EVENT-PREPRO-437394447-PROD-PRIMARY-SCUS": {
+            "total_cost": 0.35,
+            "az_cost": 0.35,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-EVENT-PREPRO-437409508-PROD-SECONDARY-WUS": {
+            "total_cost": 0.34,
+            "az_cost": 0.34,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-IOT": {
+            "total_cost": 0.31,
+            "az_cost": 0.31,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-ISA-CONFIG-API-564437592-PROD-WUS": {
+            "total_cost": 0.24,
+            "az_cost": 0.24,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-DATA-ENRICHMENT--943424476-PROD-SC-SCUS": {
+            "total_cost": 0.23,
+            "az_cost": 0.23,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-ISA-CONFIG-API-564437592-PROD-SCUS": {
+            "total_cost": 0.23,
+            "az_cost": 0.23,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ITEM-ACTIVIT-558829594-PROD-WUS": {
+            "total_cost": 0.21,
+            "az_cost": 0.21,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-EVENTS-REPOR-410263658-STAGE-SCUS": {
+            "total_cost": 0.2,
+            "az_cost": 0.2,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-BASTION": {
+            "total_cost": 0.18,
+            "az_cost": 0.18,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HADOOP-AZURE-427451369-PROD-PRIMARY-SCUS": {
+            "total_cost": 0.16,
+            "az_cost": 0.16,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-EVENTS-REPLA-485254796-STG-SCUS": {
+            "total_cost": 0.16,
+            "az_cost": 0.16,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "BOSSA-NOVA-IMAGE-GALLERIES": {
+            "total_cost": 0.16,
+            "az_cost": 0.16,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-DISTRIBUTED--466791656-STAGE-SCUS": {
+            "total_cost": 0.15,
+            "az_cost": 0.15,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-VAULT": {
+            "total_cost": 0.13,
+            "az_cost": 0.13,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-BOSSANOVA-IN-432460687-PROD-AZ-SC-SCUS": {
+            "total_cost": 0.13,
+            "az_cost": 0.13,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-DATA-ENRICHMENT--979364756-PROD-LOAD-TEST-SCUS": {
+            "total_cost": 0.12,
+            "az_cost": 0.12,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IN-STOCK-ASSISTA-461095972-PROD-WUS": {
+            "total_cost": 0.12,
+            "az_cost": 0.12,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-BACK-ROOM-INVENT-608864092-PROD-SCUS": {
+            "total_cost": 0.11,
+            "az_cost": 0.11,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-BOSSANOVA-IN-425275076-PROD-WUS": {
+            "total_cost": 0.11,
+            "az_cost": 0.11,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-REPLENISHMEN-542260765-QA-SCUS": {
+            "total_cost": 0.11,
+            "az_cost": 0.11,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IN-STOCK-ASSISTA-486055298-QA-ACCEPTANCE-SCUS": {
+            "total_cost": 0.1,
+            "az_cost": 0.1,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ITEM-ACTIVIT-553533760-DEV-SCUS": {
+            "total_cost": 0.09,
+            "az_cost": 0.09,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-BOSSANOVA-IN-911026716-QA-SCUS": {
+            "total_cost": 0.09,
+            "az_cost": 0.09,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ORCHESTRATIO-867520746-PROD-WEST-WUS": {
+            "total_cost": 0.09,
+            "az_cost": 0.09,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GETS-API-636383212-PROD-WUS": {
+            "total_cost": 0.09,
+            "az_cost": 0.09,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HISTORY-INJE-851442976-DEV-SCUS": {
+            "total_cost": 0.09,
+            "az_cost": 0.09,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-SALES-FLOOR-INVE-867485003-PROD-WEST-WUS": {
+            "total_cost": 0.09,
+            "az_cost": 0.09,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ITEMINFO-SER-880920656-DEV-SCUS": {
+            "total_cost": 0.09,
+            "az_cost": 0.09,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ITEMINFO-SER-955841239-PROD-SCUS": {
+            "total_cost": 0.08,
+            "az_cost": 0.08,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HISTORY-INJE-955844165-PROD-SCUS": {
+            "total_cost": 0.08,
+            "az_cost": 0.08,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-STORE-SERVIC-477152379-PROD-SCUS": {
+            "total_cost": 0.08,
+            "az_cost": 0.08,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GETS-API-636383212-PROD-SCUS": {
+            "total_cost": 0.08,
+            "az_cost": 0.08,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HADOOP-AZURE-413354899-DEV-SCUS": {
+            "total_cost": 0.08,
+            "az_cost": 0.08,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-SFI-KAFKA-MIRROR-870451908-PROD-SC-SCUS": {
+            "total_cost": 0.08,
+            "az_cost": 0.08,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CACHE-IMS-INVENTORY-PI-404414089-STG-SCUS": {
+            "total_cost": 0.08,
+            "az_cost": 0.08,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ORCHESTRATIO-679314758-PERFORMANCE-SCUS": {
+            "total_cost": 0.08,
+            "az_cost": 0.08,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-EVENT-PREPRO-411149147-STG-SCUS": {
+            "total_cost": 0.08,
+            "az_cost": 0.08,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CACHE-CLOUDDURCACHE-DE-465986554-DEV-SCUS": {
+            "total_cost": 0.07,
+            "az_cost": 0.07,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-BOSSANOVA-IN-711583176-DEV-SCUS": {
+            "total_cost": 0.05,
+            "az_cost": 0.05,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-STORAGE": {
+            "total_cost": 0.05,
+            "az_cost": 0.05,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-ISA-CONFIG-API-562106363-DEV-SCUS": {
+            "total_cost": 0.04,
+            "az_cost": 0.04,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-MTTR-943864138-MTTR-DEV-SCUS": {
+            "total_cost": 0.04,
+            "az_cost": 0.04,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-WIREMOCK-SERVER-721997462-DEV-SCUS": {
+            "total_cost": 0.04,
+            "az_cost": 0.04,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-EVENT-PREPRO-409134593-DEV-SCUS": {
+            "total_cost": 0.04,
+            "az_cost": 0.04,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HADOOP-AZURE-443198204-DEV-NEW-WUS": {
+            "total_cost": 0.04,
+            "az_cost": 0.04,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-REPLENISHMEN-539303437-DEV-SCUS": {
+            "total_cost": 0.04,
+            "az_cost": 0.04,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-MOBILE-DATA-841877101-DEV-SCUS": {
+            "total_cost": 0.04,
+            "az_cost": 0.04,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-PURGE-PROCES-839134521-DEV-SCUS": {
+            "total_cost": 0.04,
+            "az_cost": 0.04,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GETS-API-634712303-DEV-SCUS": {
+            "total_cost": 0.04,
+            "az_cost": 0.04,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "TEIMCMDM-IMS-NG-ETL-536374022-PROD2-SCUS": {
+            "total_cost": 0.04,
+            "az_cost": 0.04,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-DOCKER-503742413-IMSDEV-SCUS": {
+            "total_cost": 0.03,
+            "az_cost": 0.03,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "S62A31FABSPRG": {
+            "total_cost": 0.01,
+            "az_cost": 0.01,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "HOSTEDBOSSANOVASOUTHCENTRALUSMRG": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MD4696066SPRG": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          }
+        }
+      },
+      "COMPUTE": {
+        "total_cost": 127.31,
+        "az_cost": 0,
+        "gcp_cost": 0,
+        "os_cost": 127.31,
+        "az_cn_cost": 0
+      },
+      "EXPRESSROUTE": {
+        "total_cost": 48.76,
+        "az_cost": 48.76,
+        "gcp_cost": 0,
+        "os_cost": 0,
+        "az_cn_cost": 0,
+        "resource_group": {
+          "az_cost": 48.76,
+          "gcp_cost": 0,
+          "os_cost": 0,
+          "az_cn_cost": 0,
+          "total_cost": 48.76,
+          "SQLSERVER-IAAS-PROD-01RG025": {
+            "total_cost": 5.93,
+            "az_cost": 5.93,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CASSANDRA-IMS-SALES-FLOOR--406706528-PROD-WUS": {
+            "total_cost": 4.34,
+            "az_cost": 4.34,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-KAMP": {
+            "total_cost": 4.17,
+            "az_cost": 4.17,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CASSANDRA-IMS-SALES-FLOOR--406706528-PROD-SCUS": {
+            "total_cost": 3.96,
+            "az_cost": 3.96,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-ELASTIC-STACK": {
+            "total_cost": 2.07,
+            "az_cost": 2.07,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HADOOP-AZURE-468028872-PROD-SVCSSAEIM-P-SCUS": {
+            "total_cost": 1.52,
+            "az_cost": 1.52,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-SALES-FLOOR-INVE-580252262-PROD-SC-SCUS": {
+            "total_cost": 1.35,
+            "az_cost": 1.35,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CASSANDRA-IMS-SALES-FLOOR--373665358-QA-WUS": {
+            "total_cost": 1.32,
+            "az_cost": 1.32,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-CLOUDIMS-AZ-PROD-462365501-PROD-WUS": {
+            "total_cost": 1.31,
+            "az_cost": 1.31,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-IN-STOCK-ASSISTA-538100419-PROD-WUS": {
+            "total_cost": 1.31,
+            "az_cost": 1.31,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-CLOUDIMS-AZ-PROD-462365501-PROD-SCUS": {
+            "total_cost": 1.18,
+            "az_cost": 1.18,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-IN-STOCK-ASSISTA-538100419-PROD-SCUS": {
+            "total_cost": 1.16,
+            "az_cost": 1.16,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CASSANDRA-IMS-FAST-HISTORY-893405055-STG-WUS": {
+            "total_cost": 1,
+            "az_cost": 1,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-REPLENISHMEN-540281319-PROD-SCUS": {
+            "total_cost": 0.76,
+            "az_cost": 0.76,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ITEM-ACTIVIT-558829594-PROD-SCUS": {
+            "total_cost": 0.75,
+            "az_cost": 0.75,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-3RG590": {
+            "total_cost": 0.74,
+            "az_cost": 0.74,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-EVENT-PREPRO-437409508-PROD-SECONDARY-WUS": {
+            "total_cost": 0.62,
+            "az_cost": 0.62,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-REPLENISHMEN-540281319-PROD-WUS": {
+            "total_cost": 0.62,
+            "az_cost": 0.62,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-EVENT-PREPRO-437394447-PROD-PRIMARY-SCUS": {
+            "total_cost": 0.57,
+            "az_cost": 0.57,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CASSANDRA-SHELFAVAILABILIT-911392311-DEV-WUS": {
+            "total_cost": 0.54,
+            "az_cost": 0.54,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CASSANDRA-IMS-FAST-HISTORY-844660707-DEV-WUS": {
+            "total_cost": 0.54,
+            "az_cost": 0.54,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ORCHESTRATIO-577891858-PROD-SCUS": {
+            "total_cost": 0.53,
+            "az_cost": 0.53,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IN-STOCK-ASSISTA-461095972-PROD-SCUS": {
+            "total_cost": 0.5,
+            "az_cost": 0.5,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HADOOP-AZURE-427451369-PROD-PRIMARY-SCUS": {
+            "total_cost": 0.5,
+            "az_cost": 0.5,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-COUCHBASE-866213001-DEV-SCUS": {
+            "total_cost": 0.5,
+            "az_cost": 0.5,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-CONSUL": {
+            "total_cost": 0.47,
+            "az_cost": 0.47,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-ISA-CONFIG-API-564437592-PROD-WUS": {
+            "total_cost": 0.41,
+            "az_cost": 0.41,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SQLSERVER-IAAS-NONPROD-01RG087": {
+            "total_cost": 0.4,
+            "az_cost": 0.4,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SOUTHCENTRALUS-BOSSANOVA-SKU-ASSESSEMENT": {
+            "total_cost": 0.38,
+            "az_cost": 0.38,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-SERVICEBUS": {
+            "total_cost": 0.38,
+            "az_cost": 0.38,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-ISA-CONFIG-API-564437592-PROD-SCUS": {
+            "total_cost": 0.38,
+            "az_cost": 0.38,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-DISTRIBUTED--466791656-STAGE-SCUS": {
+            "total_cost": 0.37,
+            "az_cost": 0.37,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ITEM-ACTIVIT-558829594-PROD-WUS": {
+            "total_cost": 0.34,
+            "az_cost": 0.34,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "CPNONPRODUCTIONXPRV2SOUTHCENTRALUSR026": {
+            "total_cost": 0.33,
+            "az_cost": 0.33,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-2RG336": {
+            "total_cost": 0.26,
+            "az_cost": 0.26,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-EVENTS-REPLA-485254796-STG-SCUS": {
+            "total_cost": 0.25,
+            "az_cost": 0.25,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "RG-SCUS-DEV-A2": {
+            "total_cost": 0.24,
+            "az_cost": 0.24,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-COSMOSDB": {
+            "total_cost": 0.23,
+            "az_cost": 0.23,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-VAULT": {
+            "total_cost": 0.23,
+            "az_cost": 0.23,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-ETCD": {
+            "total_cost": 0.22,
+            "az_cost": 0.22,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GRAPHITE-GRA-694658249-PROD-SC-SCUS": {
+            "total_cost": 0.21,
+            "az_cost": 0.21,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GRAPHITE-GRA-575980491-STAGE-SCUS": {
+            "total_cost": 0.21,
+            "az_cost": 0.21,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GRAPHITE-GRA-704239484-PROD-2-SCUS": {
+            "total_cost": 0.21,
+            "az_cost": 0.21,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IN-STOCK-ASSISTA-461095972-PROD-WUS": {
+            "total_cost": 0.21,
+            "az_cost": 0.21,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-3RG618": {
+            "total_cost": 0.2,
+            "az_cost": 0.2,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GRAPHITE-GRA-705473400-LOCATIONS-PROD-SCUS": {
+            "total_cost": 0.2,
+            "az_cost": 0.2,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-DATA-ENRICHMENT--943424476-PROD-SC-SCUS": {
+            "total_cost": 0.2,
+            "az_cost": 0.2,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-BOSSANOVA-IN-432460687-PROD-AZ-SC-SCUS": {
+            "total_cost": 0.19,
+            "az_cost": 0.19,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-DATA-ENRICHMENT--979364756-PROD-LOAD-TEST-SCUS": {
+            "total_cost": 0.19,
+            "az_cost": 0.19,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-STORE-SERVIC-477152379-PROD-SCUS": {
+            "total_cost": 0.19,
+            "az_cost": 0.19,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-3RG546": {
+            "total_cost": 0.18,
+            "az_cost": 0.18,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-3RG650": {
+            "total_cost": 0.14,
+            "az_cost": 0.14,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GETS-API-636383212-PROD-WUS": {
+            "total_cost": 0.14,
+            "az_cost": 0.14,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-IMS-REPLENISHMEN-541841933-QA-WUS": {
+            "total_cost": 0.13,
+            "az_cost": 0.13,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-IMSREPLENISHMENT-518288573-DEV-WUS": {
+            "total_cost": 0.13,
+            "az_cost": 0.13,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-BOSSANOVA-IN-911026716-QA-SCUS": {
+            "total_cost": 0.13,
+            "az_cost": 0.13,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IN-STOCK-ASSISTA-486055298-QA-ACCEPTANCE-SCUS": {
+            "total_cost": 0.13,
+            "az_cost": 0.13,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ITEM-ACTIVIT-553533760-DEV-SCUS": {
+            "total_cost": 0.13,
+            "az_cost": 0.13,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GETS-API-636383212-PROD-SCUS": {
+            "total_cost": 0.13,
+            "az_cost": 0.13,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HADOOP-AZURE-413354899-DEV-SCUS": {
+            "total_cost": 0.13,
+            "az_cost": 0.13,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CACHE-IMS-INVENTORY-PI-404414089-STG-SCUS": {
+            "total_cost": 0.12,
+            "az_cost": 0.12,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-EVENT-PREPRO-411149147-STG-SCUS": {
+            "total_cost": 0.12,
+            "az_cost": 0.12,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CACHE-CLOUDDURCACHE-DE-465986554-DEV-SCUS": {
+            "total_cost": 0.12,
+            "az_cost": 0.12,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-3RG614": {
+            "total_cost": 0.12,
+            "az_cost": 0.12,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-CONTAINER-REGISTRY": {
+            "total_cost": 0.11,
+            "az_cost": 0.11,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-CLOUD-IMS-QA-466764305-QA-SCUS": {
+            "total_cost": 0.11,
+            "az_cost": 0.11,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-ISA-CAP-DEV-504024913-DEV-SCUS": {
+            "total_cost": 0.11,
+            "az_cost": 0.11,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "TEIMCMDM-IMS-NG-ETL-536374022-PROD2-SCUS": {
+            "total_cost": 0.11,
+            "az_cost": 0.11,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-REPLENISHMEN-542260765-QA-SCUS": {
+            "total_cost": 0.11,
+            "az_cost": 0.11,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-CLOUDIMS-STG-446410541-STG-SCUS": {
+            "total_cost": 0.1,
+            "az_cost": 0.1,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-IOT": {
+            "total_cost": 0.1,
+            "az_cost": 0.1,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "RG-SCUS-STAGE-A2": {
+            "total_cost": 0.1,
+            "az_cost": 0.1,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-SALES-FLOOR-INVE-867485003-PROD-WEST-WUS": {
+            "total_cost": 0.1,
+            "az_cost": 0.1,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-BASTION": {
+            "total_cost": 0.1,
+            "az_cost": 0.1,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-EVENTS-REPOR-410263658-STAGE-SCUS": {
+            "total_cost": 0.08,
+            "az_cost": 0.08,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ORCHESTRATIO-679314758-PERFORMANCE-SCUS": {
+            "total_cost": 0.08,
+            "az_cost": 0.08,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HISTORY-INJE-955844165-PROD-SCUS": {
+            "total_cost": 0.07,
+            "az_cost": 0.07,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ITEMINFO-SER-955841239-PROD-SCUS": {
+            "total_cost": 0.07,
+            "az_cost": 0.07,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ITEMINFO-SER-880920656-DEV-SCUS": {
+            "total_cost": 0.07,
+            "az_cost": 0.07,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HISTORY-INJE-851442976-DEV-SCUS": {
+            "total_cost": 0.07,
+            "az_cost": 0.07,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ORCHESTRATIO-867520746-PROD-WEST-WUS": {
+            "total_cost": 0.07,
+            "az_cost": 0.07,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-BACK-ROOM-INVENT-608864092-PROD-SCUS": {
+            "total_cost": 0.06,
+            "az_cost": 0.06,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-ISA-CONFIG-API-562106363-DEV-SCUS": {
+            "total_cost": 0.06,
+            "az_cost": 0.06,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-BOSSANOVA-IN-711583176-DEV-SCUS": {
+            "total_cost": 0.06,
+            "az_cost": 0.06,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GETS-API-634712303-DEV-SCUS": {
+            "total_cost": 0.06,
+            "az_cost": 0.06,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-BOSSANOVA-IN-425275076-PROD-WUS": {
+            "total_cost": 0.06,
+            "az_cost": 0.06,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "RG-EUS2-STAGE-A2": {
+            "total_cost": 0.05,
+            "az_cost": 0.05,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "RG-SCUS-STAGE-A4": {
+            "total_cost": 0.04,
+            "az_cost": 0.04,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-SFI-KAFKA-MIRROR-870451908-PROD-SC-SCUS": {
+            "total_cost": 0.04,
+            "az_cost": 0.04,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-MTTR-943864138-MTTR-DEV-SCUS": {
+            "total_cost": 0.03,
+            "az_cost": 0.03,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "RG-SCUS-STAGE-A5": {
+            "total_cost": 0.03,
+            "az_cost": 0.03,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-EVENT-PREPRO-409134593-DEV-SCUS": {
+            "total_cost": 0.03,
+            "az_cost": 0.03,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-DOCKER-503742413-IMSDEV-SCUS": {
+            "total_cost": 0.03,
+            "az_cost": 0.03,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-REPLENISHMEN-539303437-DEV-SCUS": {
+            "total_cost": 0.03,
+            "az_cost": 0.03,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HADOOP-AZURE-443198204-DEV-NEW-WUS": {
+            "total_cost": 0.02,
+            "az_cost": 0.02,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-WIREMOCK-SERVER-721997462-DEV-SCUS": {
+            "total_cost": 0.02,
+            "az_cost": 0.02,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-MOBILE-DATA-841877101-DEV-SCUS": {
+            "total_cost": 0.02,
+            "az_cost": 0.02,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-PURGE-PROCES-839134521-DEV-SCUS": {
+            "total_cost": 0.02,
+            "az_cost": 0.02,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "BOSSA-NOVA-IMAGE-GALLERIES": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-STORAGE": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "S62A31FABSPRG": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MLS-WCNP-AZ-SC": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MLS-COMMONSTAGE-AZ-SC": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MLS-WCNP-AZ-WEST": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "HOSTEDBOSSANOVASOUTHCENTRALUSMRG": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MD4696066SPRG": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MLS-COMMONPROD-AZ-WEST": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MLS-COMMONPROD-AZ-SC": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          }
+        }
+      },
+      "SERVICE BUS": {
+        "total_cost": 26.69,
+        "az_cost": 26.69,
+        "gcp_cost": 0,
+        "os_cost": 0,
+        "az_cn_cost": 0,
+        "resource_group": {
+          "az_cost": 26.69,
+          "gcp_cost": 0,
+          "os_cost": 0,
+          "az_cn_cost": 0,
+          "total_cost": 26.69,
+          "SOUTHCENTRALUS-BOSSANOVA-SKU-ASSESSEMENT": {
+            "total_cost": 13.34,
+            "az_cost": 13.34,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-SERVICEBUS": {
+            "total_cost": 13.34,
+            "az_cost": 13.34,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-IOT": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          }
+        }
+      },
+      "VIRTUAL NETWORK": {
+        "total_cost": 16.31,
+        "az_cost": 16.31,
+        "gcp_cost": 0,
+        "os_cost": 0,
+        "az_cn_cost": 0,
+        "resource_group": {
+          "az_cost": 16.31,
+          "gcp_cost": 0,
+          "os_cost": 0,
+          "az_cn_cost": 0,
+          "total_cost": 16.31,
+          "SQLSERVER-IAAS-PROD-01RG025": {
+            "total_cost": 7.47,
+            "az_cost": 7.47,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-SALES-FLOOR-INVE-580252262-PROD-SC-SCUS": {
+            "total_cost": 4.31,
+            "az_cost": 4.31,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HADOOP-AZURE-468028872-PROD-SVCSSAEIM-P-SCUS": {
+            "total_cost": 0.62,
+            "az_cost": 0.62,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-BACK-ROOM-INVENT-608864092-PROD-SCUS": {
+            "total_cost": 0.49,
+            "az_cost": 0.49,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ORCHESTRATIO-577891858-PROD-SCUS": {
+            "total_cost": 0.42,
+            "az_cost": 0.42,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-2RG336": {
+            "total_cost": 0.33,
+            "az_cost": 0.33,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-DATA-ENRICHMENT--943424476-PROD-SC-SCUS": {
+            "total_cost": 0.26,
+            "az_cost": 0.26,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GRAPHITE-GRA-694658249-PROD-SC-SCUS": {
+            "total_cost": 0.25,
+            "az_cost": 0.25,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-EVENT-PREPRO-437394447-PROD-PRIMARY-SCUS": {
+            "total_cost": 0.22,
+            "az_cost": 0.22,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-KAMP": {
+            "total_cost": 0.18,
+            "az_cost": 0.18,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-REPLENISHMEN-540281319-PROD-SCUS": {
+            "total_cost": 0.17,
+            "az_cost": 0.17,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-COUCHBASE-866213001-DEV-SCUS": {
+            "total_cost": 0.15,
+            "az_cost": 0.15,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HADOOP-AZURE-427451369-PROD-PRIMARY-SCUS": {
+            "total_cost": 0.13,
+            "az_cost": 0.13,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-CLOUDIMS-AZ-PROD-462365501-PROD-WUS": {
+            "total_cost": 0.13,
+            "az_cost": 0.13,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ITEM-ACTIVIT-558829594-PROD-SCUS": {
+            "total_cost": 0.13,
+            "az_cost": 0.13,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GRAPHITE-GRA-705473400-LOCATIONS-PROD-SCUS": {
+            "total_cost": 0.11,
+            "az_cost": 0.11,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-BASTION": {
+            "total_cost": 0.11,
+            "az_cost": 0.11,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-SFI-KAFKA-MIRROR-870451908-PROD-SC-SCUS": {
+            "total_cost": 0.09,
+            "az_cost": 0.09,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-EVENT-PREPRO-437409508-PROD-SECONDARY-WUS": {
+            "total_cost": 0.08,
+            "az_cost": 0.08,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-3RG590": {
+            "total_cost": 0.08,
+            "az_cost": 0.08,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-ELASTIC-STACK": {
+            "total_cost": 0.07,
+            "az_cost": 0.07,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GRAPHITE-GRA-704239484-PROD-2-SCUS": {
+            "total_cost": 0.05,
+            "az_cost": 0.05,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IN-STOCK-ASSISTA-461095972-PROD-SCUS": {
+            "total_cost": 0.04,
+            "az_cost": 0.04,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-BOSSANOVA-IN-432460687-PROD-AZ-SC-SCUS": {
+            "total_cost": 0.04,
+            "az_cost": 0.04,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-ISA-CONFIG-API-564437592-PROD-SCUS": {
+            "total_cost": 0.04,
+            "az_cost": 0.04,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-BOSSANOVA-IN-425275076-PROD-WUS": {
+            "total_cost": 0.04,
+            "az_cost": 0.04,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-BOSSANOVA-IN-911026716-QA-SCUS": {
+            "total_cost": 0.04,
+            "az_cost": 0.04,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-MTTR-943864138-MTTR-DEV-SCUS": {
+            "total_cost": 0.02,
+            "az_cost": 0.02,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GRAPHITE-GRA-575980491-STAGE-SCUS": {
+            "total_cost": 0.02,
+            "az_cost": 0.02,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CASSANDRA-IMS-SALES-FLOOR--406706528-PROD-WUS": {
+            "total_cost": 0.01,
+            "az_cost": 0.01,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HISTORY-INJE-955844165-PROD-SCUS": {
+            "total_cost": 0.01,
+            "az_cost": 0.01,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ITEMINFO-SER-955841239-PROD-SCUS": {
+            "total_cost": 0.01,
+            "az_cost": 0.01,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-CLOUDIMS-AZ-PROD-462365501-PROD-SCUS": {
+            "total_cost": 0.01,
+            "az_cost": 0.01,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-EVENTS-REPOR-410263658-STAGE-SCUS": {
+            "total_cost": 0.01,
+            "az_cost": 0.01,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-DATA-ENRICHMENT--979364756-PROD-LOAD-TEST-SCUS": {
+            "total_cost": 0.01,
+            "az_cost": 0.01,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-DISTRIBUTED--466791656-STAGE-SCUS": {
+            "total_cost": 0.01,
+            "az_cost": 0.01,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IN-STOCK-ASSISTA-461095972-PROD-WUS": {
+            "total_cost": 0.01,
+            "az_cost": 0.01,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ITEMINFO-SER-880920656-DEV-SCUS": {
+            "total_cost": 0.01,
+            "az_cost": 0.01,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HISTORY-INJE-851442976-DEV-SCUS": {
+            "total_cost": 0.01,
+            "az_cost": 0.01,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-ISA-CONFIG-API-564437592-PROD-WUS": {
+            "total_cost": 0.01,
+            "az_cost": 0.01,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-REPLENISHMEN-540281319-PROD-WUS": {
+            "total_cost": 0.01,
+            "az_cost": 0.01,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-EVENTS-REPLA-485254796-STG-SCUS": {
+            "total_cost": 0.01,
+            "az_cost": 0.01,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CASSANDRA-IMS-SALES-FLOOR--406706528-PROD-SCUS": {
+            "total_cost": 0.01,
+            "az_cost": 0.01,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ITEM-ACTIVIT-558829594-PROD-WUS": {
+            "total_cost": 0.01,
+            "az_cost": 0.01,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-IN-STOCK-ASSISTA-538100419-PROD-WUS": {
+            "total_cost": 0.01,
+            "az_cost": 0.01,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-REPLENISHMEN-542260765-QA-SCUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-3RG546": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GETS-API-636383212-PROD-SCUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CASSANDRA-IMS-SALES-FLOOR--373665358-QA-WUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-IMS-REPLENISHMEN-541841933-QA-WUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-IMSREPLENISHMENT-518288573-DEV-WUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CASSANDRA-SHELFAVAILABILIT-911392311-DEV-WUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-3RG618": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-3RG650": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CASSANDRA-IMS-FAST-HISTORY-893405055-STG-WUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SQLSERVER-IAAS-NONPROD-01RG087": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ORCHESTRATIO-679314758-PERFORMANCE-SCUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-STORE-SERVIC-477152379-PROD-SCUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IN-STOCK-ASSISTA-486055298-QA-ACCEPTANCE-SCUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CACHE-CLOUDDURCACHE-DE-465986554-DEV-SCUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-ISA-CONFIG-API-562106363-DEV-SCUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CASSANDRA-IMS-FAST-HISTORY-844660707-DEV-WUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-IN-STOCK-ASSISTA-538100419-PROD-SCUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ORCHESTRATIO-867520746-PROD-WEST-WUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GETS-API-636383212-PROD-WUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-3RG614": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-SALES-FLOOR-INVE-867485003-PROD-WEST-WUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-WIREMOCK-SERVER-721997462-DEV-SCUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-REPLENISHMEN-539303437-DEV-SCUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-MOBILE-DATA-841877101-DEV-SCUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-EVENT-PREPRO-411149147-STG-SCUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-CLOUD-IMS-QA-466764305-QA-SCUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-CLOUDIMS-STG-446410541-STG-SCUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CLOUDRDBMS-ISA-CAP-DEV-504024913-DEV-SCUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-DOCKER-503742413-IMSDEV-SCUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "CPNONPRODUCTIONXPRV2SOUTHCENTRALUSR026": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ITEM-ACTIVIT-553533760-DEV-SCUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HADOOP-AZURE-413354899-DEV-SCUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HADOOP-AZURE-443198204-DEV-NEW-WUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-GETS-API-634712303-DEV-SCUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-EVENT-PREPRO-409134593-DEV-SCUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-PURGE-PROCES-839134521-DEV-SCUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MS-DF-CACHE-IMS-INVENTORY-PI-404414089-STG-SCUS": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-VAULT": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          }
+        }
+      },
+      "WCNP": {
+        "total_cost": 16.27,
+        "az_cost": 16.27,
+        "gcp_cost": 0,
+        "os_cost": 0,
+        "az_cn_cost": 0,
+        "resource_group": {
+          "az_cost": 16.27,
+          "gcp_cost": 0,
+          "os_cost": 0,
+          "az_cn_cost": 0,
+          "total_cost": 16.27,
+          "RG-SCUS-DEV-A2": {
+            "total_cost": 8.39,
+            "az_cost": 8.39,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "RG-SCUS-STAGE-A2": {
+            "total_cost": 3.58,
+            "az_cost": 3.58,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "RG-EUS2-STAGE-A2": {
+            "total_cost": 1.66,
+            "az_cost": 1.66,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "RG-SCUS-STAGE-A4": {
+            "total_cost": 1.53,
+            "az_cost": 1.53,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "RG-SCUS-STAGE-A5": {
+            "total_cost": 1.11,
+            "az_cost": 1.11,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          }
+        }
+      },
+      "LOAD BALANCER": {
+        "total_cost": 9.64,
+        "az_cost": 9.64,
+        "gcp_cost": 0,
+        "os_cost": 0,
+        "az_cn_cost": 0,
+        "resource_group": {
+          "az_cost": 9.64,
+          "gcp_cost": 0,
+          "os_cost": 0,
+          "az_cn_cost": 0,
+          "total_cost": 9.64,
+          "SQLSERVER-IAAS-PROD-01RG025": {
+            "total_cost": 2.3,
+            "az_cost": 2.3,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-SALES-FLOOR-INVE-867485003-PROD-WEST-WUS": {
+            "total_cost": 1.08,
+            "az_cost": 1.08,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ORCHESTRATIO-867520746-PROD-WEST-WUS": {
+            "total_cost": 1.08,
+            "az_cost": 1.08,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-KAMP": {
+            "total_cost": 0.97,
+            "az_cost": 0.97,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-ELASTIC-STACK": {
+            "total_cost": 0.72,
+            "az_cost": 0.72,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ORCHESTRATIO-577891858-PROD-SCUS": {
+            "total_cost": 0.72,
+            "az_cost": 0.72,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ITEMINFO-SER-880920656-DEV-SCUS": {
+            "total_cost": 0.35,
+            "az_cost": 0.35,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-ITEMINFO-SER-955841239-PROD-SCUS": {
+            "total_cost": 0.35,
+            "az_cost": 0.35,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HISTORY-INJE-955844165-PROD-SCUS": {
+            "total_cost": 0.35,
+            "az_cost": 0.35,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-HISTORY-INJE-851442976-DEV-SCUS": {
+            "total_cost": 0.35,
+            "az_cost": 0.35,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-CONSUL": {
+            "total_cost": 0.35,
+            "az_cost": 0.35,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-REPLENISHMEN-539303437-DEV-SCUS": {
+            "total_cost": 0.35,
+            "az_cost": 0.35,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SSAEIM-IMS-REPLENISHMEN-542260765-QA-SCUS": {
+            "total_cost": 0.35,
+            "az_cost": 0.35,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-VAULT": {
+            "total_cost": 0.35,
+            "az_cost": 0.35,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          }
+        }
+      },
+      "AZURE COSMOS DB": {
+        "total_cost": 8.01,
+        "az_cost": 8.01,
+        "gcp_cost": 0,
+        "os_cost": 0,
+        "az_cn_cost": 0,
+        "resource_group": {
+          "az_cost": 8.01,
+          "gcp_cost": 0,
+          "os_cost": 0,
+          "az_cn_cost": 0,
+          "total_cost": 8.01,
+          "WALMART-USSC-COSMOSDB": {
+            "total_cost": 8.01,
+            "az_cost": 8.01,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          }
+        }
+      },
+      "CONTAINER REGISTRY": {
+        "total_cost": 4,
+        "az_cost": 4,
+        "gcp_cost": 0,
+        "os_cost": 0,
+        "az_cn_cost": 0,
+        "resource_group": {
+          "az_cost": 4,
+          "gcp_cost": 0,
+          "os_cost": 0,
+          "az_cn_cost": 0,
+          "total_cost": 4,
+          "WALMART-USSC-CONTAINER-REGISTRY": {
+            "total_cost": 4,
+            "az_cost": 4,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          }
+        }
+      },
+      "IOT HUB": {
+        "total_cost": 2.88,
+        "az_cost": 2.88,
+        "gcp_cost": 0,
+        "os_cost": 0,
+        "az_cn_cost": 0,
+        "resource_group": {
+          "az_cost": 2.88,
+          "gcp_cost": 0,
+          "os_cost": 0,
+          "az_cn_cost": 0,
+          "total_cost": 2.88,
+          "WALMART-USSC-IOT": {
+            "total_cost": 2.88,
+            "az_cost": 2.88,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          }
+        }
+      },
+      "EVENT HUBS": {
+        "total_cost": 0.43,
+        "az_cost": 0.43,
+        "gcp_cost": 0,
+        "os_cost": 0,
+        "az_cn_cost": 0,
+        "resource_group": {
+          "az_cost": 0.43,
+          "gcp_cost": 0,
+          "os_cost": 0,
+          "az_cn_cost": 0,
+          "total_cost": 0.43,
+          "WALMART-USSC-IOT": {
+            "total_cost": 0.43,
+            "az_cost": 0.43,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          }
+        }
+      },
+      "BANDWIDTH": {
+        "total_cost": 0.04,
+        "az_cost": 0.04,
+        "gcp_cost": 0,
+        "os_cost": 0,
+        "az_cn_cost": 0,
+        "resource_group": {
+          "az_cost": 0.04,
+          "gcp_cost": 0,
+          "os_cost": 0,
+          "az_cn_cost": 0,
+          "total_cost": 0.04,
+          "WALMART-USSC-KAMP": {
+            "total_cost": 0.03,
+            "az_cost": 0.03,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-CONSUL": {
+            "total_cost": 0.01,
+            "az_cost": 0.01,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-VAULT": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-ELASTIC-STACK": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-COSMOSDB": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-BASTION": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-IOT": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "WALMART-USSC-ETCD": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          }
+        }
+      },
+      "MANAGED LOG SEARCH": {
+        "total_cost": 0.01,
+        "az_cost": 0.01,
+        "gcp_cost": 0,
+        "os_cost": 0,
+        "az_cn_cost": 0,
+        "resource_group": {
+          "az_cost": 0.01,
+          "gcp_cost": 0,
+          "os_cost": 0,
+          "az_cn_cost": 0,
+          "total_cost": 0.01,
+          "MLS-WCNP-AZ-SC": {
+            "total_cost": 0.01,
+            "az_cost": 0.01,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MLS-COMMONSTAGE-AZ-SC": {
+            "total_cost": 0.01,
+            "az_cost": 0.01,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MLS-WCNP-AZ-WEST": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MLS-COMMONPROD-AZ-WEST": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "MLS-COMMONPROD-AZ-SC": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          }
+        }
+      },
+      "KEY VAULT": {
+        "total_cost": 0,
+        "az_cost": 0,
+        "gcp_cost": 0,
+        "os_cost": 0,
+        "az_cn_cost": 0,
+        "resource_group": {
+          "az_cost": 0,
+          "gcp_cost": 0,
+          "os_cost": 0,
+          "az_cn_cost": 0,
+          "total_cost": 0,
+          "MD4696066SPRG": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "S62A31FABSPRG": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          }
+        }
+      },
+      "VIRTUAL MACHINES LICENSES": {
+        "total_cost": 0,
+        "az_cost": 0,
+        "gcp_cost": 0,
+        "os_cost": 0,
+        "az_cn_cost": 0,
+        "resource_group": {
+          "az_cost": 0,
+          "gcp_cost": 0,
+          "os_cost": 0,
+          "az_cn_cost": 0,
+          "total_cost": 0,
+          "IAAS-PERSISTENT-2RG336": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-3RG546": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-3RG590": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-3RG618": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "IAAS-PERSISTENT-3RG650": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SQLSERVER-IAAS-NONPROD-01RG087": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          },
+          "SQLSERVER-IAAS-PROD-01RG025": {
+            "total_cost": 0,
+            "az_cost": 0,
+            "gcp_cost": 0,
+            "os_cost": 0,
+            "az_cn_cost": 0
+          }
+        }
+      }
+    }
+  }
+}
